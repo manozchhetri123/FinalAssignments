@@ -564,11 +564,7 @@ namespace Paint
                 }
 
             }
-            else
-            {
-                MessageBox.Show("Varaible is not defined");
-                isValidCommand = false;
-            }
+ 
         }
     }
 }
